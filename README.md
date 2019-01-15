@@ -1,5 +1,5 @@
 # Python-For-Fun
-A couple of rather simple programs I wrote in python for fun.
+A couple of rather simple programs I wrote in python (2.7) for fun.
 
 The programs I have uploaded include:
 
