@@ -16,7 +16,7 @@ dow = "https://finance.yahoo.com/quote/%5EDJI?ltr=1"
 sp ="https://finance.yahoo.com/quote/%5EGSPC?ltr=1"
 vix = "https://finance.yahoo.com/quote/%5EVIX?ltr=1"
 ust = "https://finance.yahoo.com/quote/%5ETNX"
-snuff = "https://finance.yahoo.com/quote/RAI?p=RAI"
+
 key = {dow:"Dow Jones",sp:"S&P 500",vix:"Vix Index", ust:"US Treasurey"}
 #open = {dow:18279.6,sp:2164.33,vix:13.75,ust:1.6}
 digits = {dow:5,sp:4,vix:2,ust:2}
