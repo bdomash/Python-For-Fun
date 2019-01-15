@@ -33,13 +33,3 @@ print "Your cumulative GPA is: %s" % round(gpa[1],4)
 print "You have taken %s credits" % gpa[2]
 print "You have %s GPA points" % gpa[3]
 
-def foo():
-    x = 311.5
-    left = 30
-    goal = (84+left)*3.8
-    need = goal -x
-    
-    return need/left
-print foo()
-
-print (311.5+(30*4))/(84+30)
